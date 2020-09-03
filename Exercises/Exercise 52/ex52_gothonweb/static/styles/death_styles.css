@@ -1,0 +1,40 @@
+* {
+  background-color: #565656;
+}
+
+.main_death {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+.rainbow {
+  color: FFFFFF;
+  animation: rainbowColor 5s infinite linear;
+}
+@keyframes rainbowColor {
+  12.5% {
+    color: #FF0000;
+  }
+  25% {
+    color: #FFA500;
+  }
+  37.5% {
+    color: #FFFF00;
+  }
+  50% {
+    color: #7FFF00;
+  }
+  62.5% {
+    color: #00FFFF;
+  }
+  75% {
+    color: #00FFFF;
+  }
+  87.5% {
+    color: #9932CC;
+  }
+  100% {
+    color: #FF1493;
+  }
+}

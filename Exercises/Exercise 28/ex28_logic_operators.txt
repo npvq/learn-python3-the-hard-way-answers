@@ -1,0 +1,17 @@
+Equality Operators:
+
+==  equal               	If the values of two operands are equal, then the condition becomes true.
+!=  unequal                 If values of two operands are not equal, then condition becomes true.
+>   greater-than            If the value of left operand is greater than the value of right operand, then condition becomes true.
+<   less-than           	If the value of left operand is less than the value of right operand, then condition becomes true.
+>=  greater-than-equal  	If the value of left operand is greater than or equal to the value of right operand, then condition becomes true.
+<=  less-than-equal         If the value of left operand is less than or equal to the value of right operand, then condition becomes true.
+
+Binary Operators:
+
+&   Binary AND              Operator copies a bit to the result if it exists in both operands
+|   Binary OR               It copies a bit if it exists in either operand.
+^   Binary XOR              It copies the bit only if it is set in one operand and not both.
+~   Binary Ones Complacent  It is unary and has the effect of 'flipping' bits.
+<<  Binary Shift Left       The left operands value is moved left by the number of bits specified by the right operand. (This numerically multiplies by 2 per digit moved)
+>>  Binary Shift Right      The left operands value is moved right by the number of bits specified by the right operand. (This numerically divides by 2 per digit moved)

@@ -1,0 +1,11 @@
+﻿Escape ,Description
+\' ,Single-quote
+"\"" ",Double-quote
+\\ ,Backslash
+\a ,Bell
+\b ,Backspace
+\f ,Formfeed
+\n ,Newline
+\r ,Carriage
+\t ,Tab
+\v ,Vertical tab

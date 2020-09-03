@@ -1,0 +1,10 @@
+﻿Type ,Description ,Example
+bytes ,"Stores bytes, maybe of text, PNG, file, etc. ","x = b""hello"" "
+dicts ,Stores a key=value mapping of things. ,"e = {'x': 1, 'y': 2}"
+False ,False boolean value. ,False and True == False
+floats ,Stores decimals. ,i = 10.389
+lists ,Stores a list of things. ,"j = [1,2,3,4] "
+None ,Represents ”nothing” or ”no value”. ,x = None
+numbers ,Stores integers. ,i = 100
+strings ,Stores textual information. ,"x = ""hello"" "
+True ,True boolean value. ,True or False == True

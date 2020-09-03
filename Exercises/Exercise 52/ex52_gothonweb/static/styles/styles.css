@@ -1,0 +1,22 @@
+* {
+  background-color: #565656;
+}
+
+h1 {
+  color: #3cd070;
+  text-align: center;
+}
+
+.main_text {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
+.shadow {
+  text-shadow: 2px 2px 5px #3cd070;
+}
+
+.end_link {
+  text-align: center;
+}
