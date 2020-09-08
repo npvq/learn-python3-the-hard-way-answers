@@ -13,58 +13,58 @@ Here is a short Table of Contents.
 
 Exercise No# | Exercise Name | Page Number
 ---:|---|:---:
-1 | A Good First Program | 34
-2 | Comments and Pound Characters | 40
-3 | Numbers and Math | 42
-4 | Variable and Names | 46
-5 | More Variables and Printing | 50
-6 | Strings and Text | 52
-7 | More Printing | 56
-8 | Printing, Printing | 60
-9 | Printing, Printing, Printing | 62
-10 | What Was That? | 64
-11 | Asking Questions | 68
-12 | Prompting People | 70
-13 | Parameters, Unpacking, Variables | 72
-14 | Prompting and Passing | 76
-15 | Reading Files | 80
-16 | Reading and Writing Files | 84
-17 | More Files | 88
-18 | Names, Variables, Code, Functions | 92
-19 | Functions and Variables | 96
-20 | Functions and Files | 100
-21 | Functions Can Return Something | 104
-22 | What Do You Know So Far? | 108
-23 | Strings, Bytes, and Character Encodings | 110
-24 | More Practice | 118
-25 | Even More Practice | 112
-26 | Congratulations, Take a Test! | 126
-27 | Memorizing Logic | 128
-28 | Boolean Practice | 132
-29 | What If | 136
-30 | Else and If | 138
-31 | Making Decisions | 142
-32 | Loops and Lists | 146
-33 | While Loops | 150
-34 | Accessing Elements of Lists | 154
-35 | Branches and Functions | 156
-36 | Designing and Debugging | 160
-37 | Symbol Review | 162
-38 | Doing Things to Lists | 168
-39 | Dictionaries, Oh Lovely Dictionaries | 174
-40 | Modules, Classes, and Objects | 180
-41 | Learning to Speak Object-Oriented | 186
-42 | Is-A, Has-A, Objects, and Classes | 192
-43 | Basic Object-Oriented Analysis and Design | 198
-44 | Inheritance Versus Composition | 214
-45 | You Make a Game | 224
-46 | A Project Skeleton | 228
-47 | Automated Testing | 236
-48 | Advanced User Input | 240
-49 | Making Sentences | 248
-50 | Your First Website | 256
-51 | Getting Input from a Browser | 264
-52 | The Start of Your Web Game | 274
+1 | [A Good First Program][ex-1] | 34
+2 | [Comments and Pound Characters][ex-2] | 40
+3 | [Numbers and Math][ex-3] | 42
+4 | [Variable and Names][ex-4] | 46
+5 | [More Variables and Printing][ex-5] | 50
+6 | [Strings and Text][ex-6] | 52
+7 | [More Printing][ex-7] | 56
+8 | [Printing, Printing][ex-8] | 60
+9 | [Printing, Printing, Printing][ex-9] | 62
+10 | [What Was That?][ex-10] | 64
+11 | [Asking Questions][ex-11] | 68
+12 | [Prompting People][ex-12] | 70
+13 | [Parameters, Unpacking, Variables][ex-13] | 72
+14 | [Prompting and Passing][ex-14] | 76
+15 | [Reading Files][ex-15] | 80
+16 | [Reading and Writing Files][ex-16] | 84
+17 | [More Files][ex-17] | 88
+18 | [Names, Variables, Code, Functions][ex-18] | 92
+19 | [Functions and Variables][ex-19] | 96
+20 | [Functions and Files][ex-20] | 100
+21 | [Functions Can Return Something][ex-21] | 104
+22 | [What Do You Know So Far?][ex-22] | 108
+23 | [Strings, Bytes, and Character Encodings][ex-23] | 110
+24 | [More Practice][ex-24] | 118
+25 | [Even More Practice][ex-25] | 112
+26 | [Congratulations, Take a Test!][ex-26] | 126
+27 | [Memorizing Logic][ex-27] | 128
+28 | [Boolean Practice][ex-28] | 132
+29 | [What If][ex-29] | 136
+30 | [Else and If][ex-30] | 138
+31 | [Making Decisions][ex-31] | 142
+32 | [Loops and Lists][ex-32] | 146
+33 | [While Loops][ex-33] | 150
+34 | [Accessing Elements of Lists][ex-34] | 154
+35 | [Branches and Functions][ex-35] | 156
+36 | [Designing and Debugging][ex-36] | 160
+37 | [Symbol Review][ex-37] | 162
+38 | [Doing Things to Lists][ex-38] | 168
+39 | [Dictionaries, Oh Lovely Dictionaries][ex-39] | 174
+40 | [Modules, Classes, and Objects][ex-40] | 180
+41 | [Learning to Speak Object-Oriented][ex-41] | 186
+42 | [Is-A, Has-A, Objects, and Classes][ex-42] | 192
+43 | [Basic Object-Oriented Analysis and Design][ex-43] | 198
+44 | [Inheritance Versus Composition][ex-44] | 214
+45 | [You Make a Game][ex-45] | 224
+46 | [A Project Skeleton][ex-46] | 228
+47 | [Automated Testing][ex-47] | 236
+48 | [Advanced User Input][ex-48] | 240
+49 | [Making Sentences][ex-49] | 248
+50 | [Your First Website][ex-51] | 256
+51 | [Getting Input from a Browser][ex-52] | 264
+52 | [The Start of Your Web Game][ex-53] | 274
 
 _52/52 exercises uploaded_
 
@@ -1341,3 +1341,60 @@ Things to learn beyond Basic Python:
 - **NLTK**(Natural Language Tool Kit) and **Tensorflow** (For Deep Learning/Neural Networks)
 
 - **Pygame** (For creating graphical games using a sprite system)
+
+
+<!--References-->
+
+<!--Links-->
+[ex-1]: Exercises/Exercise 01
+[ex-2]: Exercises/Exercise 02
+[ex-3]: Exercises/Exercise 03
+[ex-4]: Exercises/Exercise 04
+[ex-5]: Exercises/Exercise 05
+[ex-6]: Exercises/Exercise 06
+[ex-7]: Exercises/Exercise 07
+[ex-8]: Exercises/Exercise 08
+[ex-9]: Exercises/Exercise 09
+[ex-10]:
+[ex-11]:
+[ex-12]:
+[ex-13]:
+[ex-14]:
+[ex-15]:
+[ex-16]:
+[ex-17]:
+[ex-18]:
+[ex-19]:
+[ex-20]:
+[ex-21]:
+[ex-22]:
+[ex-23]:
+[ex-24]:
+[ex-25]:
+[ex-26]:
+[ex-27]:
+[ex-28]:
+[ex-29]:
+[ex-30]:
+[ex-31]:
+[ex-32]:
+[ex-33]:
+[ex-34]:
+[ex-35]:
+[ex-36]:
+[ex-37]:
+[ex-38]:
+[ex-39]:
+[ex-40]:
+[ex-41]:
+[ex-42]:
+[ex-43]:
+[ex-44]:
+[ex-45]:
+[ex-46]:
+[ex-47]:
+[ex-48]:
+[ex-49]:
+[ex-50]:
+[ex-51]:
+[ex-52]:
