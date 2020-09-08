@@ -741,21 +741,6 @@ Function | Short Description
 [`yield:`][pydoc_yield] | Returns a value to the caller. Good for iterating over large amounts of value one at a time without caching all the data in RAM. A function using yield within its definition is a **generator** function.
 
 
-<!--References:-->
-[pydoc_break_continue]: https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
-[pydoc_compile]: https://docs.python.org/3/library/functions.html#compile
-[pydoc_eval]: https://docs.python.org/3/library/functions.html#eval
-[pydoc_exec]: https://docs.python.org/3/library/functions.html#exec
-[pydoc_global]: https://docs.python.org/3/reference/simple_stmts.html#grammar-token-global-stmt
-[resource_lambda]: https://www.programiz.com/python-programming/anonymous-function
-[pydoc_nonlocal]: https://docs.python.org/3.2/reference/simple_stmts.html#grammar-token-nonlocal_stmt
-[pydoc_pass]: https://docs.python.org/3.2/reference/simple_stmts.html#the-pass-statement
-[pydoc_raise]: https://docs.python.org/3/tutorial/errors.html#raising-exceptions
-[pydoc_try]: https://docs.python.org/3/reference/compound_stmts.html#the-try-statement
-[pydoc_with_as]: https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
-[pydoc_yield]: https://docs.python.org/3/reference/expressions.html#yield-expressions
-<!--Scopes REF: https://www.programiz.com/python-programming/global-local-nonlocal-variables-->
-
 _Notes_:
 - Unlike an if-statement's `else` clause, which runs when none of the above conditions are met, a `try` statement's `else` clause runs when no exceptions are raised, a `for` loop's `else` clause runs when no breaks occur.
 
@@ -1346,55 +1331,70 @@ Things to learn beyond Basic Python:
 <!--References-->
 
 <!--Links-->
-[ex-1]: Exercises/Exercise 01
-[ex-2]: Exercises/Exercise 02
-[ex-3]: Exercises/Exercise 03
-[ex-4]: Exercises/Exercise 04
-[ex-5]: Exercises/Exercise 05
-[ex-6]: Exercises/Exercise 06
-[ex-7]: Exercises/Exercise 07
-[ex-8]: Exercises/Exercise 08
-[ex-9]: Exercises/Exercise 09
-[ex-10]:
-[ex-11]:
-[ex-12]:
-[ex-13]:
-[ex-14]:
-[ex-15]:
-[ex-16]:
-[ex-17]:
-[ex-18]:
-[ex-19]:
-[ex-20]:
-[ex-21]:
-[ex-22]:
-[ex-23]:
-[ex-24]:
-[ex-25]:
-[ex-26]:
-[ex-27]:
-[ex-28]:
-[ex-29]:
-[ex-30]:
-[ex-31]:
-[ex-32]:
-[ex-33]:
-[ex-34]:
-[ex-35]:
-[ex-36]:
-[ex-37]:
-[ex-38]:
-[ex-39]:
-[ex-40]:
-[ex-41]:
-[ex-42]:
-[ex-43]:
-[ex-44]:
-[ex-45]:
-[ex-46]:
-[ex-47]:
-[ex-48]:
-[ex-49]:
-[ex-50]:
-[ex-51]:
-[ex-52]:
+[ex-1]: Exercises/Exercise%2001
+[ex-2]: Exercises/Exercise%2002
+[ex-3]: Exercises/Exercise%2003
+[ex-4]: Exercises/Exercise%2004
+[ex-5]: Exercises/Exercise%2005
+[ex-6]: Exercises/Exercise%2006
+[ex-7]: Exercises/Exercise%2007
+[ex-8]: Exercises/Exercise%2008
+[ex-9]: Exercises/Exercise%2009
+[ex-10]: Exercises/Exercise%2010
+[ex-11]: Exercises/Exercise%2011
+[ex-12]: Exercises/Exercise%2012
+[ex-13]: Exercises/Exercise%2013
+[ex-14]: Exercises/Exercise%2014
+[ex-15]: Exercises/Exercise%2015
+[ex-16]: Exercises/Exercise%2016
+[ex-17]: Exercises/Exercise%2017
+[ex-18]: Exercises/Exercise%2018
+[ex-19]: Exercises/Exercise%2019
+[ex-20]: Exercises/Exercise%2020
+[ex-21]: Exercises/Exercise%2021
+[ex-22]: Exercises/Exercise%2022
+[ex-23]: Exercises/Exercise%2023
+[ex-24]: Exercises/Exercise%2024
+[ex-25]: Exercises/Exercise%2025
+[ex-26]: Exercises/Exercise%2026
+[ex-27]: Exercises/Exercise%2027
+[ex-28]: Exercises/Exercise%2028
+[ex-29]: Exercises/Exercise%2029
+[ex-30]: Exercises/Exercise%2030
+[ex-31]: Exercises/Exercise%2031
+[ex-32]: Exercises/Exercise%2032
+[ex-33]: Exercises/Exercise%2033
+[ex-34]: Exercises/Exercise%2034
+[ex-35]: Exercises/Exercise%2035
+[ex-36]: Exercises/Exercise%2036
+[ex-37]: Exercises/Exercise%2037
+[ex-38]: Exercises/Exercise%2038
+[ex-39]: Exercises/Exercise%2039
+[ex-40]: Exercises/Exercise%2040
+[ex-41]: Exercises/Exercise%2041
+[ex-42]: Exercises/Exercise%2042
+[ex-43]: Exercises/Exercise%2043
+[ex-44]: Exercises/Exercise%2044
+[ex-45]: Exercises/Exercise%2045
+[ex-46]: Exercises/Exercise%2046
+[ex-47]: Exercises/Exercise%2047
+[ex-48]: Exercises/Exercise%2048
+[ex-49]: Exercises/Exercise%2049
+[ex-50]: Exercises/Exercise%2050
+[ex-51]: Exercises/Exercise%2051
+[ex-52]: Exercises/Exercise%2052
+
+<!--Interesting Functions-->
+[pydoc_break_continue]: https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
+[pydoc_compile]: https://docs.python.org/3/library/functions.html#compile
+[pydoc_eval]: https://docs.python.org/3/library/functions.html#eval
+[pydoc_exec]: https://docs.python.org/3/library/functions.html#exec
+[pydoc_global]: https://docs.python.org/3/reference/simple_stmts.html#grammar-token-global-stmt
+[resource_lambda]: https://www.programiz.com/python-programming/anonymous-function
+[pydoc_nonlocal]: https://docs.python.org/3.2/reference/simple_stmts.html#grammar-token-nonlocal_stmt
+[pydoc_pass]: https://docs.python.org/3.2/reference/simple_stmts.html#the-pass-statement
+[pydoc_raise]: https://docs.python.org/3/tutorial/errors.html#raising-exceptions
+[pydoc_try]: https://docs.python.org/3/reference/compound_stmts.html#the-try-statement
+[pydoc_with_as]: https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
+[pydoc_yield]: https://docs.python.org/3/reference/expressions.html#yield-expressions
+<!--Scopes REF: https://www.programiz.com/python-programming/global-local-nonlocal-variables-->
