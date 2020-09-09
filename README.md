@@ -62,9 +62,9 @@ Exercise No# | Exercise Name | Page Number
 47 | [Automated Testing][ex-47] | 236
 48 | [Advanced User Input][ex-48] | 240
 49 | [Making Sentences][ex-49] | 248
-50 | [Your First Website][ex-51] | 256
-51 | [Getting Input from a Browser][ex-52] | 264
-52 | [The Start of Your Web Game][ex-53] | 274
+50 | [Your First Website][ex-50] | 256
+51 | [Getting Input from a Browser][ex-51] | 264
+52 | [The Start of Your Web Game][ex-52] | 274
 
 _52/52 exercises uploaded_
 
